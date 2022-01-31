@@ -11,3 +11,4 @@ Esse programa reduz o tempo de procura de alguns minutos para alguns segundos, o
 Caso queira usar o programa para sua procura de emprego, segue um link que te permite utilizá-lo sem necessidade de instalar o Python e as bibliotecas importadas:
 
 https://colab.research.google.com/drive/1Gq6HvY9M4GCrFex5wQ5sJTWl_KALEYuW?usp=sharing#scrollTo=MtEalBmF-7YQ
+
