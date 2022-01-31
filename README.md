@@ -6,7 +6,7 @@ O site (https://www.atibaiasp.com.br/banco-de-vagas/) apresenta apenas 5 vagas p
 
 Por isso desenvolvi um programa que busca em múltiplas páginas vagas de emprego de acordo com algumas palavras chaves que insiro no programa.
 
-Esse programa reduz o tempo de procura de alguns minutos para alguns segundos, o fato de eu ter automatizado o script por meio do Agendador de Tarefas do Windows facilita ainda mais o processo.
+Esse programa reduz o tempo de procura de alguns minutos para alguns segundos, o fato de eu ter automatizado o script (arquivo .bat) por meio do Agendador de Tarefas do Windows facilita ainda mais o processo.
 
 Caso queira usar o programa para sua procura de emprego, segue um link que te permite utilizá-lo sem necessidade de instalar o Python e as bibliotecas importadas:
 
