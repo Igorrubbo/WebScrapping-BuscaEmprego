@@ -13,4 +13,6 @@ Caso queira usar o programa para sua procura de emprego, segue um link que te pe
 https://colab.research.google.com/drive/1Gq6HvY9M4GCrFex5wQ5sJTWl_KALEYuW?usp=sharing#scrollTo=MtEalBmF-7YQ
 
 Obs.: O código também está disponível no arquivo "busca_emprego_colab.py".
+Obs.2: O arquivo "ws_procura_emprego.py" é o que uso em minha máquina para automatização e por isso apresenta algumas mudanças signficativas para o arquivo "busca_emprego_colab.py".
+O arquivo do colab é de uso manual.
 
